@@ -1,0 +1,10 @@
+Q-Explain what JavaScript is and its role in web development. 
+A-JavaScript:
+Programming language for web development.
+Client-side execution for dynamic content
+Web Development Role:
+.DOM manipulation for structural changes
+.Form data validation and user event handling
+.Asynchronous operations enhance responsiveness
+.AJAX for server communication.Frameworks like React and Angular leverage JavaScript
+.Ensures cross-browser compatibility.

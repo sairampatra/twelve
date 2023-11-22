@@ -1,0 +1,30 @@
+Q-Explain the key differences between JavaScript and HTML. Provide examples of situations where
+you would use each.
+A-// JavaScript:
+- Type: Programming language.
+- Role: Adds interactivity and dynamic behavior to web pages.
+- Examples:
+  - Handling form validation.
+  - Creating interactive elements like buttons.
+  - Making asynchronous requests to a server (AJAX).
+  - Implementing complex logic in web applications.
+
+// HTML:
+- Type: Markup language.
+- Role: Defines structure and content of web pages.
+- Examples:
+  - Creating headings (<h1>, <h2>).
+  - Structuring content with paragraphs (<p>).
+  - Inserting images (<img>).
+  - Generating lists (<ul>, <ol>).
+
+// Use Cases:
+- JavaScript:
+  - When you need to add dynamic features to a webpage.
+  - Handling user interactions and form submissions.
+  - Developing complex functionalities in web applications.
+
+- HTML:
+  - Defining the basic structure and layout of a webpage.
+  - Displaying content such as text, images, and links.
+  - Creating forms and organizing information hierarchically.

@@ -1,0 +1,38 @@
+Q-Describe the categorization of operators in JavaScript based on their functionality. Provide examples for
+each category.
+
+A-// Arithmetic Operators:
+// - Perform mathematical calculations.
+// Example:
+let sum = 5 + 3; // Addition
+let product = 4 * 2; // Multiplication
+
+// Comparison Operators:
+// - Compare values and return a boolean result.
+// Example:
+let isEqual = (x === y); // Strict equality
+let isGreaterThan = (a > b); // Greater than
+
+// Logical Operators:
+// - Perform logical operations and return boolean results.
+// Example:
+let andResult = (true && false); // Logical AND
+let orResult = (true || false); // Logical OR
+
+// Assignment Operators:
+// - Assign values to variables.
+// Example:
+let x = 10; // Assignment
+x += 5; // Addition assignment (x = x + 5)
+
+// Unary Operators:
+// - Operate on a single operand.
+// Example:
+let negation = !true; // Logical NOT
+let increment = counter++; // Post-increment
+
+// Conditional (Ternary) Operator:
+// - Provides a shorthand for an if-else statement.
+// Example:
+let result = (condition) ? "True" : "False";
+
